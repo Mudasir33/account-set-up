@@ -1,2 +1,3 @@
 # account-set-up
-signup account 
+is meant to create secure account for the user to verify it's been created
+
